@@ -50,7 +50,7 @@
   <a href="https://open.spotify.com/search/Singari%20Sai%20Abhyankkar">
     <img src="https://img.shields.io/badge/Singari–Sai%20Abhyankkar-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-  <a href="https://open.spotify.com/search/Dracula%20Tame%20Impala">
+  <a href="https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8?si=e21b51bc2f434bcf">
     <img src="https://img.shields.io/badge/Dracula–Tame%20Impala-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
   <a href="https://open.spotify.com/search/End%20of%20Beginning%20Joe%20Keery">
