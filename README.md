@@ -44,13 +44,10 @@
 <h2 align="center">🎼 all-time favourites</h2>
 
 <p align="center">
-  <a href="https://open.spotify.com/search/Sithira%20Puthiri%20Sai%20Abhyankkar">
-    <img src="https://img.shields.io/badge/Sithira%20Puthiri–Sai%20Abhyankkar-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
+  <a href="https://open.spotify.com/track/39uLYYZytVUwcjgeYLI409?si=e79140495c2d46ba">
+    <img src="https://img.shields.io/badge/Merry%20Go%20Round%20of%20Life-Joe%20Hisaishi-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
-  <a href="https://open.spotify.com/search/Singari%20Sai%20Abhyankkar">
-    <img src="https://img.shields.io/badge/Singari–Sai%20Abhyankkar-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
-  </a>
-  <a href="https://open.spotify.com/track/7Csa4PStpuYIfUqNMKQ4V8?si=e21b51bc2f434bcf">
+  <a href="https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD?si=f99e202170444b83">
     <img src="https://img.shields.io/badge/Dracula–Tame%20Impala-1DB954?style=for-the-badge&logo=spotify&logoColor=white">
   </a>
   <a href="https://open.spotify.com/search/End%20of%20Beginning%20Joe%20Keery">
